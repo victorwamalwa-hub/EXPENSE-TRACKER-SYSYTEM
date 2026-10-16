@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { convertCurrency, calculateTotal, filterExpensesByCategory } from '../src/utils.js';
+import { convertCurrency, calculateTotal, filterExpensesByCategory } from '../utils.js';
 
 const mockRates = {
   USD: 1,

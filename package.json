@@ -1,0 +1,24 @@
+{
+  "name": "expense-tracker-sysytem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorwamalwa-hub/EXPENSE-TRACKER-SYSYTEM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorwamalwa-hub/EXPENSE-TRACKER-SYSYTEM/issues"
+  },
+  "homepage": "https://github.com/victorwamalwa-hub/EXPENSE-TRACKER-SYSYTEM#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
